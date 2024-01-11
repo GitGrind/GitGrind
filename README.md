@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GitGrind
 - 👀 I’m interested in creating
 - 🌱 I’m currently learning app dev
-- 💞️ I’m looking to collaborate on any project that is beyond my limits so as to set new limits
-- 📫 How to reach me (mail me at brofistansh@gmail.com)
-- 😄 Pronouns: he/him
+- 💞️ I’m looking to collaborate on any project that is beyond my limits so as to set new limits.
+- 📫 How to reach me (mail me at brofistansh@gmail.com).
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am lazy but determined.
 
 <!---
